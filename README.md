@@ -1,4 +1,5 @@
 # the_prashant_shell
+<<<<<<< HEAD
 
 A Linux-inspired command line interface (CLI) for Windows, created by Prashant. This CLI brings powerful file navigation and management to Windows users with familiar Linux commands.
 
@@ -46,3 +47,6 @@ note: if the .exe is flagged ,allow it manually.
 
 ## Author
 Prashant, aspiring top-tier programmer.
+=======
+Linux-inspired CLI for Windows, created by Prashant.
+>>>>>>> 8f5cf045b0565d728880c0575bc1284aada57059
